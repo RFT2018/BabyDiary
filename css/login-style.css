@@ -109,8 +109,8 @@ background-color: rgba(36, 89, 133, 0.8);
 
 /* Local login BTN */
 .btn-green{
-  color: #77c791;
-  background-color: #298e62;
+  color: #2D9B6B;
+  background-color: darkslategray;
   text-transform: uppercase;
   font-weight: 500;
   letter-spacing: 4px;
